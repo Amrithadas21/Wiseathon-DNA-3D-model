@@ -1,5 +1,6 @@
 🧬 Unity AR DNA Model – Augmented Reality Application
 This repository contains a Unity-based AR application that visualizes a 3D DNA model with interactive controls. The DNA model, sourced from Sketchfab, is available for download in dna.zip 
+
 🔹 Project Overview
 Engine: Unity (2021+ recommended)
 AR Framework: Vuforia Engine
@@ -7,6 +8,7 @@ AR Framework: Vuforia Engine
 Interactions: Zoom, Slider-based rotation
 Platform: Android/iOS (Built for AR-capable devices)
 
+APK drive link:https://drive.google.com/file/d/1TijPOEmHCaY0lSpkotx6bn8FcxDAVm88/view?usp=drive_link
 
 ### **Technical Breakdown of the Unity AR DNA Model Application**  
 
